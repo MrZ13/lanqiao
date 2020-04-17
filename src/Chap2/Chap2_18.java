@@ -7,6 +7,6 @@ package Chap2;
  **/
 public class Chap2_18 {
     public static void main(String[] args) {
-        
+
     }
 }
